@@ -1,0 +1,155 @@
+{
+  "main": {
+    "id": "185ec3e1c2ed1e5c",
+    "type": "split",
+    "children": [
+      {
+        "id": "8fbc1d870a140926",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b61910a448ab2a8b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "命令/PNPM.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "86ce21b5c43e1421",
+    "type": "split",
+    "children": [
+      {
+        "id": "b4bb1f6524f9ab2c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "154694e715945024",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "b667aeb75b309176",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "780c518b5153f3a3",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "7726e22027b16942",
+    "type": "split",
+    "children": [
+      {
+        "id": "090ffe1ed565b65b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "fcc33018318983a3",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "命令/PNPM.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "4f05f9e39963eb22",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "命令/PNPM.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "47f3917491d4e83c",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "ff83ceb316a27f29",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "命令/PNPM.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false
+    }
+  },
+  "active": "b61910a448ab2a8b",
+  "lastOpenFiles": [
+    "命令/NPM.md",
+    "ES6+/ES7.md",
+    "Vue3 +TS/2 vue3项目搭建.md"
+  ]
+}
